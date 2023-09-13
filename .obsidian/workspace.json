@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
+                "file": "Solutions Architect/Questions Stuff/ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bucket-url",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
+                "file": "Solutions Architect/Questions Stuff/ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
+                "file": "Solutions Architect/Questions Stuff/ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md"
+                "file": "Solutions Architect/Questions Stuff/ECS.md"
               }
             }
           },
@@ -158,20 +158,21 @@
   },
   "active": "a77f2247df721f68",
   "lastOpenFiles": [
-    "Solutions Architect/Questions Stuff/Stuff.md",
-    "Solutions Architect/Questions Stuff/Storage Gateway.md",
-    "Solutions Architect/Questions Stuff/VPC.md",
-    "Solutions Architect/Questions Stuff/EC2.md",
-    "Solutions Architect/Questions Stuff/Load Balancer.md",
-    "Solutions Architect/Questions Stuff/Auto Scaling.md",
     "Solutions Architect/Questions Stuff/S3.md",
+    "Solutions Architect/Questions Stuff/ECS.md",
+    "Solutions Architect/Questions Stuff/EC2.md",
+    "Solutions Architect/Questions Stuff/Route 53.md",
+    "Solutions Architect/Questions Stuff/Auto Scaling.md",
+    "Solutions Architect/Questions Stuff/Aurora.md",
+    "Solutions Architect/Questions Stuff/Storage Gateway.md",
+    "Solutions Architect/Questions Stuff/Stuff.md",
+    "Solutions Architect/Questions Stuff/VPC.md",
+    "Solutions Architect/Questions Stuff/Load Balancer.md",
     "Solutions Architect/Questions Stuff/SQS.md",
     "Solutions Architect/Questions Stuff/DynamoDB.md",
-    "Solutions Architect/Questions Stuff/Aurora.md",
     "Solutions Architect/Questions Stuff/WAF.md",
     "Solutions Architect/Questions Stuff/RDS.md",
     "Solutions Architect/Questions Stuff/Outposts.md",
-    "Solutions Architect/Questions Stuff/Route 53.md",
     "Solutions Architect/Questions Stuff/Application Migration Service.md",
     "Solutions Architect/Questions Stuff/Application Discovery Service.md",
     "Solutions Architect/Questions Stuff/Common Scenarios.md",
@@ -189,7 +190,6 @@
     "Untitled.md",
     "Solutions Architect/17. Messaging/5. Kinesis Data Firehose.md",
     "Attachments/Pasted image 20230825134930.png",
-    "Solutions Architect/17. Messaging/3. Fan Out Pattern.md",
     "Attachments/Pasted image 20230825134628.png",
     "Attachments/Pasted image 20230824230016.png",
     "Attachments/Pasted image 20230824225948.png",

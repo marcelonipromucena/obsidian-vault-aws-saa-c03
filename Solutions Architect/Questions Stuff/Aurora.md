@@ -1,3 +1,4 @@
+#database #aurora 
 ##### Scenario 01
 - Company uses Aurora;
 - Entire tech stack is deployed in USA;
