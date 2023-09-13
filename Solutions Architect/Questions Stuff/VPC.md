@@ -1,0 +1,2 @@
+- VPC Endpoint always takes precedence over NAT Gateway.
+- VPCs cannot share the same NAT Gateway.

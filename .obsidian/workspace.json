@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8caa3b0b8fe6395",
+        "id": "b61d6f4aa1e3d7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5fdbc0da9e8f09",
+            "id": "a77f2247df721f68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Stuff.md",
+                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Stuff.md",
+                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Stuff.md",
+                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/Stuff.md"
+                "file": "Solutions Architect/Questions Stuff/Storage Gateway.md"
               }
             }
           },
@@ -156,10 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd5fdbc0da9e8f09",
+  "active": "a77f2247df721f68",
   "lastOpenFiles": [
-    "Solutions Architect/Questions Stuff/Common Scenarios.md",
     "Solutions Architect/Questions Stuff/Stuff.md",
+    "Solutions Architect/Questions Stuff/Storage Gateway.md",
+    "Solutions Architect/Questions Stuff/VPC.md",
+    "Solutions Architect/Questions Stuff/EC2.md",
+    "Solutions Architect/Questions Stuff/Load Balancer.md",
+    "Solutions Architect/Questions Stuff/Auto Scaling.md",
+    "Solutions Architect/Questions Stuff/S3.md",
+    "Solutions Architect/Questions Stuff/SQS.md",
+    "Solutions Architect/Questions Stuff/DynamoDB.md",
+    "Solutions Architect/Questions Stuff/Aurora.md",
+    "Solutions Architect/Questions Stuff/WAF.md",
+    "Solutions Architect/Questions Stuff/RDS.md",
+    "Solutions Architect/Questions Stuff/Outposts.md",
+    "Solutions Architect/Questions Stuff/Route 53.md",
+    "Solutions Architect/Questions Stuff/Application Migration Service.md",
+    "Solutions Architect/Questions Stuff/Application Discovery Service.md",
+    "Solutions Architect/Questions Stuff/Common Scenarios.md",
     "Solutions Architect/18. Data Analytics/2. Redshift.md",
     "Solutions Architect/Questions Stuff",
     "Attachments/Pasted image 20230829100941.png",
@@ -176,28 +191,13 @@
     "Attachments/Pasted image 20230825134930.png",
     "Solutions Architect/17. Messaging/3. Fan Out Pattern.md",
     "Attachments/Pasted image 20230825134628.png",
-    "Solutions Architect/9. Database/2. RDS/2. RDS Custom.md",
-    "Solutions Architect/9. Database/2. RDS/1. RDS.md",
     "Attachments/Pasted image 20230824230016.png",
     "Attachments/Pasted image 20230824225948.png",
     "Attachments/Pasted image 20230824225858.png",
     "Attachments/Pasted image 20230824225842.png",
     "Attachments/Pasted image 20230824225827.png",
     "Attachments/Pasted image 20230824225817.png",
-    "Solutions Architect/17. Messaging/2. SQS with Auto Scaling Group (ASG).md",
-    "Solutions Architect/17. Messaging/1. SQS - Long Polling.md",
-    "Solutions Architect/L.md",
     "Solutions Architect/17. Messaging",
-    "Solutions Architect/Ports to be familiar with.md",
-    "Solutions Architect/16. Storage Extras/14. DataSync.md",
-    "Solutions Architect/16. Storage Extras/13. AWS Transfer Family (for FTP).md",
-    "Solutions Architect/16. Storage Extras/12. Storage Gateway.md",
-    "Solutions Architect/9. Database/3. Aurora/2. Basic Information.md",
-    "Solutions Architect/16. Storage Extras/3. FSX for Lustre.md",
-    "Solutions Architect/16. Storage Extras/2. FSx for Windows.md",
-    "Solutions Architect/16. Storage Extras/1. Storage Extras.md",
-    "Solutions Architect/16. Storage Extras/4. FSx - Scratch File System.md",
-    "Solutions Architect/16. Storage Extras/7. FSx for OpenZFS.md",
     "Solutions Architect/15. CloudFront",
     "Solutions Architect/9. Database/4. ElastiCache",
     "Solutions Architect/9. Database/2. RDS",
