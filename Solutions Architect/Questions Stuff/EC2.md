@@ -1,4 +1,4 @@
-##### Scenario 01
+## Scenario 01
 #ec2 #spot #cost-effective
 - Company runs **data processing workflow**;
 - Takes about **60 minutes to complete**;
@@ -11,7 +11,7 @@
 	- Cannot be EC2 Reserved (More expensive than Spot);
 	- <mark style="background: #BBFABBA6;">EC2 Spot Instances;</mark>
 
-##### Scenario 02
+## Scenario 02
 #ec2 #cost-effective #instance-type
 - Company has a web app running 24/7 in prod;
 - Wants to run a clone of the same app in dev for **8 hours**;
@@ -21,7 +21,7 @@
 	- Cannot be **Spot** because it isn't reliable for running up to 8 hours. It may be auto terminated before the 8 hour threshold;
 	- <mark style="background: #BBFABBA6;">Reserved EC2 for PROD (predictable workload and the cheapest option with up to 72% discount if you buy 3 years) and On-Demand for DEV (pay for the time you use it. 8 hours/day).</mark>
 
-##### Scenario 03
+## Scenario 03
 #ec2 #regions #ami #snapshot
 - Company has just created an AWS account;
 - Team provisioned **an EC2 instance 1A in _region A_**;
@@ -34,7 +34,7 @@
 	- **1 EC2 instance, 1 AMI and 1 snapshot exist in region B**
 	- <mark style="background: #BBFABBA6;">When the new AMI is copied from region A into region B, it automatically creates a snapshot in region B because AMIs are based on the underlying snapshots.</mark>
 
-##### Scenario 04
+## Scenario 04
 #ec2 #storage
 - Company is documenting the process flow to provision EC2 instances;
 - Instances will be used in internal applications that processes HR payroll data;
@@ -45,10 +45,22 @@
 	- <mark style="background: #BBFABBA6;">Cold HDD (_sc1_) can't be used;</mark>
 	- <mark style="background: #BBFABBA6;">Throughput Optimized HDD (_st1_)</mark>
 
-##### Scenario 05
+## Scenario 05
 #ec2 #hpc
 - Company is assisting NASA;
 - Uses High-Performance Computing (**HPC**) driven application architecture;
 - Which **EC2 instance topology** should this application be deployed on?
 - Answer:
 	- <mark style="background: #BBFABBA6;">EC2 instances should be deployed in Cluster Placement Group to benefit from Low Network Latency and High Network Throughput </mark>
+
+## Scenario 06
+#ec2 #high-availability #load-balancer 
+- Company is looking for a solution with **high-availability**;
+- Should allow for **content-based** routing as part of the architecture;
+- Answer:
+	- Can't be **ASG with Elastic IP** since you cannot use it to distribute traffic to EC2 instances;
+	- Can't be **NLB with Private IP** since NLB can't route requests based in their content.
+	- Can't be **ASG with Public IP** since you cannot use it to distribute traffic to EC2 instances;
+	- <mark class="hltr-green">Application Load Balancer + ASG</mark> is the right answer since ALB can route traffic based content and you have HA with ASG;
+
+## Scenario 07

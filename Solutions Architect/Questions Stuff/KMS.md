@@ -1,0 +1,11 @@
+## Scenario 01
+- Company uses S3 to store images;
+- Images are kept **encrypted** in s3;
+- Company uses **KMS** and manages its own CMK (Customer Master Key) for encryption;
+- DevOps member accidentally deleted the CMK a day ago;
+- >cant-recover-images.jpg
+- What should they do?
+- Answer:
+	- CMK **cannot be recovered by ROOT user**;
+	- **Contacting AWS** won't solve this since they can't recover the key aswell;
+	- <mark class="hltr-green">CMK stays in 'pending deletion' status for 7 up to 30 days after deletion. Since the key was deleted a day ago you can cancel CMK deletion and recover the key. The default waiting period is 30 days. </mark>

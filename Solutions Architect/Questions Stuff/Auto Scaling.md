@@ -41,3 +41,29 @@ Auto Scaling uses termination policies that determine which amazon EC2 instance 
 	- <mark style="background: #FF5582A6;">2. Do the Maintenance;</mark>
 	- <mark style="background: #FFB86CA6;">3. Once the instance is ready set the instance's health status to healthy;</mark> 
 	- <mark style="background: #BBFABBA6;">4. Activate ReplaceUnhealthy process type again;</mark>
+
+
+##### Scenario 02
+#asg #asg-scaling-policy 
+- Company observed application works at its peak performance when the EC2 instances have a **CPU Utilization of about 50%**;
+- Application uses EC2 and ASG;
+- ALB manages and route requests;
+- How to make the application run **near its peak performance?**
+- Answer:
+	- Can't be **simple/step scaling policy** since both uses <mark style="background: #FF5582A6;">threshold for CW alarms that triggers the scaling process.</mark> They can't be configured to use the target metric for CPU utilization;
+	- Can't be **CW alarm** since ASG **cannot** use CW alarm as the source for scale-in or scale-out event;
+	- <mark style="background: #BBFABBA6;">target-tracking scaling policy is the right answer since you can select a scaling metric (CPU, memory, etc...) and set a target value. </mark>
+	- <mark style="background: #BBFABBA6;">target-tracking creates and manages CW alarms that trigger scaling policies and calculates the scaling adjustment based on the metric and target value</mark>
+	- <mark style="background: #BBFABBA6;">target-tracking adds or removes capacity as required <mark style="background: #FF5582A6;">to keep the metric at, or close to</mark> the specified target value.</mark>
+
+##### Scenario 03
+#asg #asg-scaling-policy 
+- Company initiates several computationally intensive workloads on EC2 instances at a designated hour on the last day of every month.
+- Payroll department has noticed a **trend on severe performance lag during this hour**;
+- Enrineering team has figured out a solution using **ASG** and making sure that **10 instances are available during this peak usage hour;**
+- For normal operations only 2 instances are enough;
+- Answers:
+	- Can't be **ASG target tracking policy + instance count to 10 at designated hour** cause target-tracking policy cannot be used to trigger a scaling action at a **_certain designated hour_**;
+	- Can't be **ASG simple tracking policy + instance count to 10 at designated hour** cause target-tracking policy cannot be used to trigger a scaling action at a **_certain designated hour_**;
+	- Can't be **ASG scheduled action + Set min count and max count to 10** since it would always keep 10 instances running;
+	- <mark class="hltr-green">ASG scheduled actions to start at designated hour + setting the desired capacity to 10 is the right answer.</mark>

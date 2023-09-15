@@ -1,0 +1,11 @@
+## Scenario 01
+- Company needs a fleed of ec2 instances for a specialized task that must deliver **high random I/O** performance.
+- Each instance in the fleet would have access to a dataset that is replicated across the instances;
+- Because of the **resilient** application architecture, the specialized task **would continue to be processed even if any instance goes down** as the underlying application architecture **would ensure the replacement instance has access to the required dataset**.
+- Most **cost-optimal and resource-efficient solution**?
+- Answer:
+	- Can't be **EC2 instance with access to S3 based storage** since S3 based storage doesn't deliver high random I/O performance;**This option isn't resource-efficient**
+	- Can't be **EBS based EC2 instances** since EBS volumes would need to use Provisioned IOPS (io1) as the storage type and that would incur in additional costs. Higher than **Instance Store**. **This option isn't cost-optimal**
+	- Can't be **EC2 instance with EFS mount points** implies that extra resources would have to be provisioned (compared to using instance store where the storage is located on disks that are physically attached to the host instance itself). **This option isn't resource-efficient**;
+	- <mark class="hltr-green">Use Instance Store is the right answer since it would incur in <mark class="hltr-red">lower costs</mark> compared to the other options and it would deliver <mark class="hltr-red">high random I/O</mark> and since it is already attached to the EC2 physical instance, <mark class="hltr-red">you don't need to provision anything else for it to work</mark>.</mark>
+	- 

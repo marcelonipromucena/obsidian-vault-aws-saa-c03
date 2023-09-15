@@ -1,0 +1,13 @@
+## Scenario 01;
+- Company is looking at improving global flagship (carro-chefe) application which uses **UDP Protocol** and needs support **fast regional failover** in case an AWS region goes down.
+- **The company wants to continue using its own custom DNS service.**
+- Answers:
+	- Can't be **Route 53** since the company wants to keep using its own custom DNS service;
+	- Can't be **Elastic Load Balancing** since ELB only works within a **single** **region**;
+	- Can't be **CloudFront** since it can't be used for improving performance of applications over TCP or UDP.
+	- <mark class="hltr-green">Global Accelerator uses the Amazon Global Network to:</mark>
+		- **Improve Performance by lowering <mark class="hltr-red">first-byte latency</mark>**(the round trip time for a packet to go from a client to your endpoint and back again);
+		- **Jitter** (the variation of latency);
+		- **Increasing Throughput** (the amount of time it takes to transfer data);
+	- <mark class="hltr-green">It works for a wide range of applications over TCP or UDP by proxying packets at the edge in one or more AWS regions;</mark>
+	- [ ] <mark class="hltr-green">It is a good use for non-HTTP use cases such as gaming (UDP), IoT (MQTT), VoIP, as well as HTTP use cases that requires static IP addresses or deterministic, fast regional failover.</mark>

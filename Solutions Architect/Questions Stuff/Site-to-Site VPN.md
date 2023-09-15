@@ -1,0 +1,9 @@
+- Company has 10 independent applications with an on-premises data footprint of about **70TB** for **each application**
+- Company has set a timeline of **two weeks** to carry out the data migration from on-premises to AWS;
+- Most cost-effective solution?
+- Answers:
+	- Can't be **Direct Connect (DX)** since it takes **more than one month** to establish the connection;
+	- Can't be **Order 70 Snowball Edge Storage Optimized** because that would be overkill and unnecessary since the data can be transferred with 10 snowball edge;
+	- Can't be **Snowmobile** because you only use snowmobile when you need to transfer more than **10PB** of data up to **1EB**. The scenario is about 700TB (70TB * 10 applications);
+	- <mark class="hltr-green">Use Site-to-Site VPN to connect the on-premises data center</mark>
+	- <mark class="hltr-green">As alternative you can also order 10 snowball edge Storage Optimized to complete the one-time data transfer.</mark>

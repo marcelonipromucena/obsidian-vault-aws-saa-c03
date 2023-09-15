@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/ECS.md",
+                "file": "Solutions Architect/Questions Stuff/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bucket-url",
+                "query": "tag:#s3-sse-kms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/ECS.md",
+                "file": "Solutions Architect/Questions Stuff/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/ECS.md",
+                "file": "Solutions Architect/Questions Stuff/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/ECS.md"
+                "file": "Solutions Architect/Questions Stuff/S3.md"
               }
             }
           },
@@ -158,37 +158,37 @@
   },
   "active": "a77f2247df721f68",
   "lastOpenFiles": [
-    "Solutions Architect/Questions Stuff/S3.md",
-    "Solutions Architect/Questions Stuff/ECS.md",
-    "Solutions Architect/Questions Stuff/EC2.md",
-    "Solutions Architect/Questions Stuff/Route 53.md",
-    "Solutions Architect/Questions Stuff/Auto Scaling.md",
     "Solutions Architect/Questions Stuff/Aurora.md",
-    "Solutions Architect/Questions Stuff/Storage Gateway.md",
-    "Solutions Architect/Questions Stuff/Stuff.md",
-    "Solutions Architect/Questions Stuff/VPC.md",
-    "Solutions Architect/Questions Stuff/Load Balancer.md",
-    "Solutions Architect/Questions Stuff/SQS.md",
+    "Solutions Architect/Questions Stuff/Account Management.md",
+    "Solutions Architect/Questions Stuff/Direct Connect (DX).md",
+    "Solutions Architect/Questions Stuff/Route 53.md",
+    "Solutions Architect/Questions Stuff/CloudFront.md",
     "Solutions Architect/Questions Stuff/DynamoDB.md",
+    "Solutions Architect/Questions Stuff/EC2 Instance Store.md",
+    "Solutions Architect/Questions Stuff/EC2.md",
+    "Solutions Architect/Questions Stuff/API Gateway.md",
+    "Solutions Architect/Questions Stuff/S3.md",
     "Solutions Architect/Questions Stuff/WAF.md",
-    "Solutions Architect/Questions Stuff/RDS.md",
-    "Solutions Architect/Questions Stuff/Outposts.md",
-    "Solutions Architect/Questions Stuff/Application Migration Service.md",
-    "Solutions Architect/Questions Stuff/Application Discovery Service.md",
-    "Solutions Architect/Questions Stuff/Common Scenarios.md",
-    "Solutions Architect/18. Data Analytics/2. Redshift.md",
+    "Solutions Architect/Questions Stuff/FSx.md",
+    "Solutions Architect/Questions Stuff/Global Accelerator.md",
+    "Solutions Architect/Questions Stuff/CloudWatch.md",
+    "Solutions Architect/Questions Stuff/Site-to-Site VPN.md",
+    "Solutions Architect/Questions Stuff/Snow Family.md",
+    "Solutions Architect/Questions Stuff/SQS.md",
+    "Solutions Architect/Questions Stuff/SNS.md",
+    "Solutions Architect/Questions Stuff/KMS.md",
+    "Solutions Architect/Questions Stuff/EFS.md",
+    "Solutions Architect/Questions Stuff/GuardDuty.md",
+    "Solutions Architect/Questions Stuff/Kinesis.md",
+    "Solutions Architect/Questions Stuff/Auto Scaling.md",
+    "Untitled.md",
+    "Solutions Architect/Questions Stuff/Shield.md",
+    "Solutions Architect/Questions Stuff/IAM.md",
     "Solutions Architect/Questions Stuff",
     "Attachments/Pasted image 20230829100941.png",
-    "Solutions Architect/18. Data Analytics/1. Athena.md",
-    "Solutions Architect/17. Messaging/4. Kinesis Data Stream.md",
-    "Solutions Architect/17. Messaging/Untitled.md",
-    "Solutions Architect/17. Messaging/5. App Runner.md",
     "Attachments/Pasted image 20230826120052.png",
-    "Solutions Architect/1. LECTURES YOU CAN SKIP.md",
     "Solutions Architect/18. Data Analytics",
     "Solutions Architect/17. Messaging/Untitled",
-    "Untitled.md",
-    "Solutions Architect/17. Messaging/5. Kinesis Data Firehose.md",
     "Attachments/Pasted image 20230825134930.png",
     "Attachments/Pasted image 20230825134628.png",
     "Attachments/Pasted image 20230824230016.png",
