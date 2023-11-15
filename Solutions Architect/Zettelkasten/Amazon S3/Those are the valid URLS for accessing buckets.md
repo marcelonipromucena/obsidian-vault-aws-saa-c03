@@ -1,0 +1,2 @@
+- https:// bucket-name .<mark class="hltr-green"> s3-website-region</mark> . amazonaws . com
+- https:// bucket-name . <mark class="hltr-green">s3-website . region</mark> . amazonaws . com

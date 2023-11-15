@@ -1,0 +1,1 @@
+automatically change the DNS CNAME to point to the Standby DB instance in case your <mark class="hltr-red">primary db instance fails</mark>.

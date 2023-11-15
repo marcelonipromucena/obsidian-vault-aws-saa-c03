@@ -1,0 +1,2 @@
+- Pay per hour for usage and bandwidth
+- 

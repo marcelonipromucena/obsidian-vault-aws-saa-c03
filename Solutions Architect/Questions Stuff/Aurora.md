@@ -23,7 +23,7 @@
 	- If two or more replicas share the same <mark style="background: #BBFABBA6;">priority</mark>, the largest one in size is promoted;
 	- If two or more replicas share the same <mark style="background: #BBFABBA6;">priority and size</mark>, Aurora promotes an **arbitrary replica in the same promotion tier**;
 
-## Scenario 02
+## Scenario 03
 - Company manages a **multi-tier** social media application that runs on **EC2** behind **ALB**;
 - Instances run in an **ASG** across multiple AZs and uses **Aurora**;
 - How to make the application **more resilient to periodic spikes in request rates?**

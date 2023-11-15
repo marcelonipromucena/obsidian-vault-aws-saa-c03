@@ -1,0 +1,6 @@
+- Allows you to connect to AWS services using a **private network**
+- Redundant & scale horizontally;
+- Remove the need for IGW, NATGW to access AWS services;
+- In case of issues:
+	- Check DNS Setting Resolution in your VPC;
+	- Check Route Tables;

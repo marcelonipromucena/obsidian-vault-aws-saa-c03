@@ -1,0 +1,11 @@
+- Used to move large amount of data to and from:
+	- On-premise -> AWS (NFS,SMB,HDFS,S3 API...) <mark class="hltr-red">needs agent</mark>
+	- Other Cloud -> AWS <mark class="hltr-red">needs agent</mark>
+	- AWS -> AWS <mark class="hltr-green">no agent needed</mark>
+- Can sync to:
+	- S3 <mark class="hltr-green">Any storage classes - including Glacier</mark>
+	- EFS
+	- FSx (Windows, Lustre, NetApp, OpenZFS)
+- Replication tasks can be scheduled **hourly, daily, weekly**;
+- **File permissions and metadata are preserved (NFS POSIX, SMB)**
+- **One** **agent** **task** can use **10 Gbps**, can setup a bandwidth limit.

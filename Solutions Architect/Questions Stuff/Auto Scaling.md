@@ -30,7 +30,7 @@ Auto Scaling uses termination policies that determine which amazon EC2 instance 
 
 ##### Scenario 01
 - Company wants to perform some maintenance work on a specific EC2 instance;
-- That instance is part of ASG using a **step scaling policy**;
+- That instance is part of **ASG** using a **step scaling policy**;
 - Team is facing maintenance challenge;
 - Every time team deploys a new maintenance patch, the healthcheck status shows as **out of service** for a few minutes;
 - Causes ASG to provision another replacement instance immediately;

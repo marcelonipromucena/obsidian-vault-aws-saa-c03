@@ -11,7 +11,7 @@
 
 ## Scenario 02
 - DevOps engineer has joined a large financial service company recently;
-- As part of his onboarding, the IT department is conducting a review of the checklist for tasks related to **AWS IAM**;
+- As part of his onboarding, the IT department is conducting a review of the checklists for tasks related to **AWS IAM**;
 - Which best practices would you recommend?
 - Answers:
 	- Can't be **Use user credentials to provide access specific permissions for EC2 instances** since user credentials is not the recommended way of authorizing access to EC2 instances or any resources. Use IAM roles and policies instead;

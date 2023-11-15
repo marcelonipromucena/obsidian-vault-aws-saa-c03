@@ -1,0 +1,4 @@
+Ao longo de minhas muitas vidas e até este momento, todas as virtudes que eu tenha alcançado, inclusive o mérito gerado por esta prática e todas as que vier a conseguir, ofereço para
+o bem-estar dos seres sencientes.Possam a doença, fome, guerra e sofrimento diminuir para todos os seres enquanto sua sabedoria e compaixão aumentam nesta e em vidas futuras.
+
+Possa eu claramente perceber todas as experiências como sendo tão insubstanciais quanto o tecido do sonho durante a noite e imediatamente despertar para perceber a manifestação de sabedoria pura no surgir de cada fenômeno. Possa eu rapidamente alcançar a iluminação para trabalhar sem cessar pela liberação de todos os seres.

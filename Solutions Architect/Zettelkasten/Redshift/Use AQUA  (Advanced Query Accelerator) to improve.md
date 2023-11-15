@@ -1,0 +1,1 @@
+query performance without increasing **operational** **overhead** and **cost**.

@@ -1,0 +1,5 @@
+- Is a fully managed AWS service that helps improve the **availability** and **performance**;
+- Works within the **AWS internal network** to your traffic to your application;
+- **2 Anycast IPs** are created for your application;
+- The Anycast IP send data directly to **Edge Locations**;
+- Then Edge Locations send traffic to your app.

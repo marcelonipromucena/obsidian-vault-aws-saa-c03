@@ -1,0 +1,13 @@
+- It is the newer version of **Launch Configuration (deprecated)**
+- You can pre-configure:
+	- AMI + Instance Type;
+	- EC2 User Data;
+	- EBS Volumes;
+	- Security Groups;
+	- SSH Key Pair;
+	- IAM Roles for your EC2 Instances;
+	- Network + Subnet Information;
+	- Load Balancer Information;
+	- Min Size / Max Size / Initial Capacity;
+	- Scaling Policies;
+	- 

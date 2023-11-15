@@ -1,0 +1,1 @@
+ S3 Presigned URLs require you to change your content URLs. The presigned URL expires after its defined expiration date.

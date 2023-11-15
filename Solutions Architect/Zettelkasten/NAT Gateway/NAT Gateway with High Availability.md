@@ -1,0 +1,2 @@
+- NAT Gateway is resilient withing a single AZ
+- 

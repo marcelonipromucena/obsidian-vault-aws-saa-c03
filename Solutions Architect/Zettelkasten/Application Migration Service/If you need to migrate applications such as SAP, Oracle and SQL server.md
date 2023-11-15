@@ -1,0 +1,1 @@
+use Application Migration Service. Tests are performed to ensure application performance from the AWS cloud, and once tests are passed, cutover is performed.

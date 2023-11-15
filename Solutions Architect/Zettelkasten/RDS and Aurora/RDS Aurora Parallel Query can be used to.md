@@ -1,0 +1,1 @@
+perform analytical queries over the data stored in your transactional database **without copying the data to a separate system for analytics.**

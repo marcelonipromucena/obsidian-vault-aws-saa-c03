@@ -1,0 +1,4 @@
+- Elastic IP
+- EC2
+- ALB
+- NLB

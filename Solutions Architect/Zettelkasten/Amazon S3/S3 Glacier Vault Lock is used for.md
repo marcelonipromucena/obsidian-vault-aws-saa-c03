@@ -1,0 +1,13 @@
+locking objects inside a vault with a policy for time-locking objects.
+- WORM (Write Once Read Many) model
+- Vault Lock Policy
+- Lock the policy for future edits (can no loger be changed or deleted)
+- Helpful for compliance and data retention.
+- 01 vault = 01 vault access policy and 01 vault lock policy.
+- **Vault access policy** can be used to manage access permission to the vault.
+- **Vault lock policy** : 
+	- No change can be done to the policy once it's locked.
+	- It is used for managing regulatory and compliance requirements.
+	- No user can make changes to the archives stored in the vault.
+	- **Resource-based tags** can be used to tag specific archives in the vault for which the **Vault lock policy** is required to be matched.
+	- 

@@ -1,0 +1,1 @@
+It is specific for VMware hosts. OVA (Open Virtual Appliance) needs to be deployed on a VM host with VMware vCenter.

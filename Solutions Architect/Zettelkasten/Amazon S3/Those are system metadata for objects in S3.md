@@ -1,0 +1,3 @@
+- x-amz-server-side-encryption
+- x-amz-version-id
+- Content-Length

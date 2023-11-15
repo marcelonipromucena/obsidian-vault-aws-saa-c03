@@ -1,0 +1,2 @@
+you need an on-demand, auto-scaling db that automatically starts up, shuts down and scales capacity up or down based on your needs.
+**Default Aurora** DOESN'T have on-demand auto-scaling as when load increases or decreases.

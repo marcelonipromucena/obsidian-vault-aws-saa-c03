@@ -1,0 +1,5 @@
+- **Port Forwarding**;
+- **Security Groups**;
+- And can be used as a **Bastion Server**;
+- Use **NACL** to control traffic to and from the subnet in which your NAT instance resides;
+- Use **Flow Logs** to capture traffic;

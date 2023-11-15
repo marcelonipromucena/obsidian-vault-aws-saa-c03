@@ -1,0 +1,4 @@
+- ECMP = **Equal-cost multi-path** routing;
+- Routing strategy to allow to forward a packet over multiple best path;
+- Use case: Create **Multiple Site-to-Site VPN connections** to **increase bandwidth of your connection to AWS**;
+- 

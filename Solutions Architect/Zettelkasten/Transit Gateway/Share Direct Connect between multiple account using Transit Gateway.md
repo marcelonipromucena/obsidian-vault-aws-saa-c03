@@ -1,0 +1,4 @@
+- Setup multiple VPCs in multiple accounts
+- Connect them to Transit Gateway
+- Connect Transit Gateway to Direct Connect Gateway
+- Connect Direct Connect Gateway to wherever you want outside or inside AWS.

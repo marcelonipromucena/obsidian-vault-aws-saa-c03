@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b61d6f4aa1e3d7e3",
+        "id": "d3a93c9b9b7e447e",
         "type": "tabs",
         "children": [
           {
-            "id": "a77f2247df721f68",
+            "id": "e26d7f29cf7c4de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/S3.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#s3-sse-kms",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 534.5086555480957
   },
   "right": {
     "id": "cef80369c84e8099",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/S3.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/S3.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions Architect/Questions Stuff/S3.md"
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md"
               }
             }
           },
@@ -153,56 +153,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a77f2247df721f68",
+  "active": "e26d7f29cf7c4de3",
   "lastOpenFiles": [
-    "Solutions Architect/Questions Stuff/Aurora.md",
-    "Solutions Architect/Questions Stuff/Account Management.md",
-    "Solutions Architect/Questions Stuff/Direct Connect (DX).md",
-    "Solutions Architect/Questions Stuff/Route 53.md",
-    "Solutions Architect/Questions Stuff/CloudFront.md",
-    "Solutions Architect/Questions Stuff/DynamoDB.md",
-    "Solutions Architect/Questions Stuff/EC2 Instance Store.md",
-    "Solutions Architect/Questions Stuff/EC2.md",
-    "Solutions Architect/Questions Stuff/API Gateway.md",
-    "Solutions Architect/Questions Stuff/S3.md",
-    "Solutions Architect/Questions Stuff/WAF.md",
-    "Solutions Architect/Questions Stuff/FSx.md",
-    "Solutions Architect/Questions Stuff/Global Accelerator.md",
-    "Solutions Architect/Questions Stuff/CloudWatch.md",
-    "Solutions Architect/Questions Stuff/Site-to-Site VPN.md",
-    "Solutions Architect/Questions Stuff/Snow Family.md",
-    "Solutions Architect/Questions Stuff/SQS.md",
-    "Solutions Architect/Questions Stuff/SNS.md",
-    "Solutions Architect/Questions Stuff/KMS.md",
-    "Solutions Architect/Questions Stuff/EFS.md",
-    "Solutions Architect/Questions Stuff/GuardDuty.md",
-    "Solutions Architect/Questions Stuff/Kinesis.md",
-    "Solutions Architect/Questions Stuff/Auto Scaling.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/13. Consumir informações te coloca no \"modo desafio\".md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/1. Analogia da comida.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/12. Dia do Lixo da Informação.md",
+    "Pessoal/Prece Budista.md",
+    "Pessoal/Canais Telegram.md",
+    "Pessoal/Untitled",
     "Untitled.md",
-    "Solutions Architect/Questions Stuff/Shield.md",
-    "Solutions Architect/Questions Stuff/IAM.md",
-    "Solutions Architect/Questions Stuff",
+    "Pessoal",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/9. Folha Projeto.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/11. Ilusão de produção.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/10. Posicionamento Mental Radar.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/7. Demanda Ativa.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/6. Analogia da Câmera.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/5. Analogia do Supermercado.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/3. Economia da Atenção.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/4. Analogia das Moedas.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/2. Objetivos do Curso.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações",
+    "Untitled 1.md",
+    "Hackers do Estudo",
+    "m.md",
+    "Solutions Architect/Zettelkasten/Amazon Comprehend/Can be used to find insights and relationship in text.md",
+    "Solutions Architect/Zettelkasten/Amazon Comprehend/Untitled 1.md",
+    "Solutions Architect/Zettelkasten/Amazon Comprehend/It uses Natural Language Processing.md",
+    "Solutions Architect/Zettelkasten/Amazon Polly/Use Newscaster Speaking Style to make your text speak.md",
+    "Solutions Architect/Zettelkasten/Amazon Comprehend",
+    "Solutions Architect/Zettelkasten/Amazon Polly/You can generate speech from plain text or documents using SSML.md",
+    "Solutions Architect/Zettelkasten/Amazon Polly/You can customize pronunciation of words.md",
+    "Solutions Architect/Zettelkasten/Amazon Polly/Using Brand Voice feature you can create a customized voice.md",
+    "Solutions Architect/Zettelkasten/Amazon S3/Use bucket policies if.md",
+    "Solutions Architect/Zettelkasten/Amazon Polly",
+    "Solutions Architect/Zettelkasten/Auto Scaling",
+    "Solutions Architect/Zettelkasten/EC2 Instance Store",
+    "Solutions Architect/Zettelkasten/EFS",
+    "Solutions Architect/Zettelkasten/DataSync",
+    "Attachments/Pasted image 20230926223856.png",
+    "Attachments/overlapping-vpc-cidrs.drawio.png",
+    "Attachments/Pasted image 20230923103530.png",
+    "Attachments/Arch_AWS-Transit-Gateway_16 1.png",
+    "Attachments/Arch_AWS-Transit-Gateway_16.png",
+    "Attachments/Arch_AWS-Transit-Gateway_16.svg",
+    "Attachments/Arch_AWS-Transit-Gateway_48.svg",
     "Attachments/Pasted image 20230829100941.png",
     "Attachments/Pasted image 20230826120052.png",
-    "Solutions Architect/18. Data Analytics",
-    "Solutions Architect/17. Messaging/Untitled",
-    "Attachments/Pasted image 20230825134930.png",
-    "Attachments/Pasted image 20230825134628.png",
-    "Attachments/Pasted image 20230824230016.png",
-    "Attachments/Pasted image 20230824225948.png",
-    "Attachments/Pasted image 20230824225858.png",
-    "Attachments/Pasted image 20230824225842.png",
-    "Attachments/Pasted image 20230824225827.png",
-    "Attachments/Pasted image 20230824225817.png",
-    "Solutions Architect/17. Messaging",
-    "Solutions Architect/15. CloudFront",
-    "Solutions Architect/9. Database/4. ElastiCache",
-    "Solutions Architect/9. Database/2. RDS",
-    "Solutions Architect/9. Database/3. Aurora",
-    "Solutions Architect/9. Database",
-    "Solutions Architect/13. S3"
+    "Attachments/Pasted image 20230825134930.png"
   ]
 }
