@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md"
+                "file": "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "e26d7f29cf7c4de3",
   "lastOpenFiles": [
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/15. Atenção Ativa e UIS-RR.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/14. Fonte Informativa e Educativa.md",
+    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/13. Consumir informações te coloca no \"modo desafio\".md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/1. Analogia da comida.md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/12. Dia do Lixo da Informação.md",
@@ -168,7 +172,6 @@
     "Untitled.md",
     "Pessoal",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/9. Folha Projeto.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/11. Ilusão de produção.md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/10. Posicionamento Mental Radar.md",
     "Hackers do Estudo/Economia da Atenção e Excesso de Informações/7. Demanda Ativa.md",
@@ -187,9 +190,6 @@
     "Solutions Architect/Zettelkasten/Amazon Polly/Use Newscaster Speaking Style to make your text speak.md",
     "Solutions Architect/Zettelkasten/Amazon Comprehend",
     "Solutions Architect/Zettelkasten/Amazon Polly/You can generate speech from plain text or documents using SSML.md",
-    "Solutions Architect/Zettelkasten/Amazon Polly/You can customize pronunciation of words.md",
-    "Solutions Architect/Zettelkasten/Amazon Polly/Using Brand Voice feature you can create a customized voice.md",
-    "Solutions Architect/Zettelkasten/Amazon S3/Use bucket policies if.md",
     "Solutions Architect/Zettelkasten/Amazon Polly",
     "Solutions Architect/Zettelkasten/Auto Scaling",
     "Solutions Architect/Zettelkasten/EC2 Instance Store",
