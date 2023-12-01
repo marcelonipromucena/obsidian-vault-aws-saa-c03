@@ -1,0 +1,73 @@
+Posicionamento Mental
+	- O que é?
+		- É como seu cérebro trabalha para transformar informação em conhecimento.
+	- CEL?
+		- Para que a informação se torne conhecimento, é necessário as seguintes coisas:
+			- Contexto: Onde aquilo se encaixa no que você já conhece?
+			- Estrutura: Como aquilo está organizado? Qual a ordem?
+			- Lógica: Onde e como uma coisa afeta a outra?
+	- Principais erros?
+		- Dúvidas e Críticas antes de conhecer algo completamente.
+	- **Anotações**
+		- O que é?
+			- São "gatilhos" para lembrar uma informação por palavras-chave.
+		- Tipos?
+			- Anotações Lineares
+			- Anotações Irradiantes
+	- Buscar Informações
+		- O que buscar?
+			- Buscar conteúdo educativo e não informativo;
+- Revisões
+	- Memorização
+		- Tipos de memória, e efeitos?
+			- MCP: Alterações lógicas nas sinapses
+			- MI
+			- MLP: Alterações físicas nas sinapses;
+	- Teoria de Hermann Ebbinghaus? 
+		- Nós esquecemos as coisas em determinados períodos:
+			- 1 hora após a exposição: 30%
+			- 1 dia após a exposição: 60%;
+			- 7 dias após a exposição: 90%
+	- Analogia das árvores?
+		- Construir conhecimento é como se estivéssemos construindo um asfalto que passa por uma floresta cheia de árvores. Devemos podar as arvores, capinar, assentar o chão para depois passar os asfalto.
+		- É assim que o conhecimento é construído: Precisamos construir a base do conhecimento (podar,capinar, assentar) para depois conhecermos de fato. Adquirirmos a informação de forma permanente.
+	- Recapitulação mental?
+		- O que é?
+			- Explicar para sí mesmo o conteúdo que aprendeu;
+		- Quando fazer?
+			- Logo após, 1 dia após, 7 dias após e talvez 30 dias após
+		- Por quanto tempo fazer?
+			- por 10% a 20% do tempo total que você estudou o assunto.
+		- Analogia do Mar de Informações?
+			- Aprendemos as coisas e jogamos no "mar de informações" da nossa mente.
+			- Para conseguirmos "acessar" o que queremos quando quisermos, precisamos colocar "placas" flutuando logo acima dessa informação.
+			- Essas placas são as Anotações em palavras-chave que nos guiam para o restante da informação como um gatilho.
+			- Não preciso da anotação completa para saber do que se trata, por exemplo:
+				- Nós jogamos futebol no fim de semana;
+				- Pode ser traduzido para: futebol; fds;
+	
+- Incorporação
+	- O que é?
+		- É uma "simplificação" do que já temos como conteúdo de anotações e palavras-chave.
+		- 
+	- Como fazer?
+		- Reduzir o conteúdo do que estudou e anotou à palavras-chave, conceitos e imagens.
+	- Qual o objetivo?
+		- Nosso cérebro processa as coisas 60 mil vezes melhor quando se trata de imagens;
+		- Quando reduzimos o conteúdo que anotamos e aprendemos à meras palavras chave, imagens ou conceitos, nós "reduzimos" o espaço que aquela informação ocupa na nossa mente.
+	- M.A.N.I.A
+		- O que significa cada letra?
+			- MNEMONICA
+			- ASSOCIACAO
+			- NARRATIVA
+			- IMAGINAÇÃO
+			- ACRONIMO
+		- Quando usar?
+			- Quando tiver algo difícil de formar gatilhos mentais;
+	- Memorização Mnemônica
+		- O que é?
+			- É o ato de você criar CONTEXTO, ESTRUTURA E LÓGICA para coisas que não possuem. Por exemplo, uma lista de supermercado.
+	- Técnica ZIP
+		- O que é?
+			- É um método para a Incorporação. Você "compacta" o conteúdo em forma de imagens, palavras-chave e conceitos para usar menos espaço na sua mente.
+			- 
