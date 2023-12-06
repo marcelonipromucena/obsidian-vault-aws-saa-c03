@@ -32,5 +32,12 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": []
 }

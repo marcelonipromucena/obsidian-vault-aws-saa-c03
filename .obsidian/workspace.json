@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "94482e90e32e394b",
+        "id": "468ebdf124dc3525",
         "type": "tabs",
         "children": [
           {
-            "id": "53bb85f804e3d2d5",
+            "id": "21c8df2e9ad298a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md",
+                "file": "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4929d2d741e1fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackers do Estudo/3. Hiper-Leitura/21. Skimming e Scanning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57e8258d97e8cfd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d26daafdb63cfa64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/hiper-leitura-skimming.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md",
+                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md",
+                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md"
+                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md"
               }
             }
           },
@@ -157,53 +192,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53bb85f804e3d2d5",
+  "active": "57e8258d97e8cfd0",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/18. Buscar Informações.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/11. 1º Passo da Revisão - Recapitulação Mental.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/1. Posicionamento Mental.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/17. Entendimento.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/16. Etapas da Formação do Conhecimento para Inteligência.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/15. Atenção Ativa e UIS-RR.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/14. Fonte Informativa e Educativa.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/12. Dia do Lixo da Informação.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/13. Consumir informações te coloca no \"modo desafio\".md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/11. Ilusão de produção.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/10. Posicionamento Mental Radar.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/9. Folha Projeto.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/8. Folha Norte.md",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações/7. Demanda Ativa.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/14. Passo a Passo para Revisão.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/15. As Vantagens de Revisar X As Desvantagens de não Revisar.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/13. Revisão de 30 dias.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/10. Preparação para a técnica.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/6. Como fazer o exercício.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/5. Passo a Passo de como anotar Ágil e eficientemente.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/1. A REVISÃO.md",
-    "Untitled 2.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/4. Anotações Irradiantes - Palavras chave e gatilhos.md",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem/12. 2º Passo da Revisão - Revisão Material.md",
+    "Book - Ultralearning/12. Scott had questions like \"How much better could i be, if as in my MIT challenge,.md",
+    "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
+    "Book - Ultralearning/11. Eric Barone.md",
+    "Book - Ultralearning/10. Roger Craig.md",
+    "Book - Ultralearning/9. Benny Lewis.md",
+    "Book - Ultralearning/8. Ultralearning helps you develop leverage that you can use elsewhere..md",
+    "Book - Ultralearning/7. Learning something valuable and doing it fast doesn't have to be confined to some narrow set of geniuses..md",
+    "Book - Ultralearning/6. What steps to become a ultralearner?.md",
+    "Book - Ultralearning/5. In theory, there is no difference between theory and practice. But in practice, there is..md",
+    "Book - Ultralearning/4. Scott like to take risks..md",
+    "Book - Ultralearning/3. Learning can be very useful but....md",
+    "Book - Ultralearning/2. Passive learning creates knowledge.md",
+    "Book - Ultralearning/1. What Scott Young accomplished with Metalearning?.md",
+    "Hackers do Estudo/3. Hiper-Leitura/21. Skimming e Scanning.md",
+    "Book - Ultralearning",
+    "Hackers do Estudo/3. Hiper-Leitura/21. O Hábito Atômico da Leitura.md",
+    "Hackers do Estudo/3. Hiper-Leitura/20. Skimming.md",
+    "Excalidraw/all-posicionamento-mental.excalidraw.md",
+    "Excalidraw/hiper-leitura-analogia-pessoa-com-copos.excalidraw.md",
+    "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
+    "Hackers do Estudo/3. Hiper-Leitura/16. Como selecionar leituras?.md",
+    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
+    "Hackers do Estudo/3. Hiper-Leitura/11. PQLP.md",
+    "Excalidraw/hiper-leitura-scanning.excalidraw.md",
+    "Excalidraw/hiper-leitura-skimming.excalidraw.md",
+    "Hackers do Estudo/3. Hiper-Leitura/19. PQRST.md",
+    "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
+    "Attachments/Pasted image 20231202160925.png",
+    "Attachments/Pasted Image 20231130230651_067.png",
+    "Attachments/Pasted Image 20231130230620_054.png",
+    "Attachments/Pasted Image 20231130230117_042.png",
+    "Attachments/Pasted Image 20231130225859_028.png",
+    "Attachments/Pasted Image 20231130225545_998.jpg",
+    "Attachments/Pasted image 20231130224349.jpg",
+    "Hackers do Estudo/3. Hiper-Leitura",
     "Attachments/Pasted Image 20231121201048_813.png",
     "Attachments/Pasted Image 20231121194238_517.png",
     "Attachments/Pasted Image 20231120173410_590.jpg",
-    "Attachments/Pasted Image 20231120173237_568.png",
-    "Attachments/Pasted image 20231120145844.png",
-    "Attachments/Pasted image 20231120145842.png",
-    "Attachments/Pasted image 20231120121158.png",
-    "Attachments/Pasted image 20231120121034.png",
-    "Attachments/Pasted image 20231120110316.png",
-    "Attachments/Pasted image 20231117222900.png",
     "Excalidraw",
-    "Hackers do Estudo/Hiper-memória e Hiper-Aprendizagem",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem",
     "Pessoal/Untitled",
     "Pessoal",
-    "Hackers do Estudo/Economia da Atenção e Excesso de Informações",
+    "Hackers do Estudo/1. Economia da Atenção e Excesso de Informações",
     "Hackers do Estudo",
     "Solutions Architect/Zettelkasten/Amazon Comprehend",
-    "Solutions Architect/Zettelkasten/Amazon Polly",
-    "Solutions Architect/Zettelkasten/Auto Scaling",
-    "Solutions Architect/Zettelkasten/EC2 Instance Store"
+    "Solutions Architect/Zettelkasten/Amazon Polly"
   ]
 }
