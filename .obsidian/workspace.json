@@ -8,53 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21c8df2e9ad298a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4929d2d741e1fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackers do Estudo/3. Hiper-Leitura/21. Skimming e Scanning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57e8258d97e8cfd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d26daafdb63cfa64",
+            "id": "05e661112bc5de9f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/hiper-leitura-skimming.excalidraw.md"
+                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
+                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
+                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md"
+                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md"
               }
             }
           },
@@ -192,10 +155,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57e8258d97e8cfd0",
+  "active": "05e661112bc5de9f",
   "lastOpenFiles": [
-    "Book - Ultralearning/12. Scott had questions like \"How much better could i be, if as in my MIT challenge,.md",
+    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
+    "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
+    "Hackers do Estudo/3. Hiper-Leitura/19. PQRST.md",
+    "Hackers do Estudo/3. Hiper-Leitura/11. PQLP.md",
+    "Hackers do Estudo/3. Hiper-Leitura/6. RSVP e o Gargalo de Memória Operacional.md",
+    "Hackers do Estudo/3. Hiper-Leitura/20. Skimming.md",
+    "Hackers do Estudo/3. Hiper-Leitura/14. Anotações.md",
+    "Hackers do Estudo/3. Hiper-Leitura/1. Revisão.md",
+    "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
+    "Hackers do Estudo/3. Hiper-Leitura/12. Como aplicar o PME na leitura?.md",
+    "Hackers do Estudo/3. Hiper-Leitura/10. 03 ingredientes para o conhecimento.md",
+    "Hackers do Estudo/3. Hiper-Leitura/9. Divisão subconsciente de palavras.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
+    "Book - Ultralearning/12. Scott had questions like \"How much better could i be, if as in my MIT challenge,.md",
     "Book - Ultralearning/11. Eric Barone.md",
     "Book - Ultralearning/10. Roger Craig.md",
     "Book - Ultralearning/9. Benny Lewis.md",
@@ -206,21 +183,7 @@
     "Book - Ultralearning/4. Scott like to take risks..md",
     "Book - Ultralearning/3. Learning can be very useful but....md",
     "Book - Ultralearning/2. Passive learning creates knowledge.md",
-    "Book - Ultralearning/1. What Scott Young accomplished with Metalearning?.md",
-    "Hackers do Estudo/3. Hiper-Leitura/21. Skimming e Scanning.md",
     "Book - Ultralearning",
-    "Hackers do Estudo/3. Hiper-Leitura/21. O Hábito Atômico da Leitura.md",
-    "Hackers do Estudo/3. Hiper-Leitura/20. Skimming.md",
-    "Excalidraw/all-posicionamento-mental.excalidraw.md",
-    "Excalidraw/hiper-leitura-analogia-pessoa-com-copos.excalidraw.md",
-    "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
-    "Hackers do Estudo/3. Hiper-Leitura/16. Como selecionar leituras?.md",
-    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
-    "Hackers do Estudo/3. Hiper-Leitura/11. PQLP.md",
-    "Excalidraw/hiper-leitura-scanning.excalidraw.md",
-    "Excalidraw/hiper-leitura-skimming.excalidraw.md",
-    "Hackers do Estudo/3. Hiper-Leitura/19. PQRST.md",
-    "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
     "Attachments/Pasted image 20231202160925.png",
     "Attachments/Pasted Image 20231130230651_067.png",
     "Attachments/Pasted Image 20231130230620_054.png",
