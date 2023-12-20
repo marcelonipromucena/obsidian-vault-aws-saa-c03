@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "468ebdf124dc3525",
+        "id": "ef8162b159b0ae54",
         "type": "tabs",
         "children": [
           {
-            "id": "05e661112bc5de9f",
+            "id": "f7be250ee6e4e8b5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md"
+                "file": "Excalidraw/mapas-mentais.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
+                "file": "Excalidraw/mapas-mentais.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
+                "file": "Excalidraw/mapas-mentais.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/mindmap-hiper-leitura.excalidraw.md"
+                "file": "Excalidraw/mapas-mentais.excalidraw.md"
               }
             }
           },
@@ -155,13 +155,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05e661112bc5de9f",
+  "active": "f7be250ee6e4e8b5",
   "lastOpenFiles": [
-    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
+    "Hackers do Estudo/4. Mapas Mentais/4. Exercicio.md",
+    "Excalidraw/mapas-mentais.excalidraw.md",
+    "Hackers do Estudo/4. Mapas Mentais/1. Introdução.md",
+    "Attachments/Pasted Image 20231218200217_280.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Hackers do Estudo/4. Mapas Mentais",
     "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
+    "Hackers do Estudo/3. Hiper-Leitura/6. RSVP e o Gargalo de Memória Operacional.md",
+    "Hackers do Estudo/3. Hiper-Leitura/5. Movimento Ocular e Leitura Dinâmica.md",
+    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
     "Hackers do Estudo/3. Hiper-Leitura/19. PQRST.md",
     "Hackers do Estudo/3. Hiper-Leitura/11. PQLP.md",
-    "Hackers do Estudo/3. Hiper-Leitura/6. RSVP e o Gargalo de Memória Operacional.md",
     "Hackers do Estudo/3. Hiper-Leitura/20. Skimming.md",
     "Hackers do Estudo/3. Hiper-Leitura/14. Anotações.md",
     "Hackers do Estudo/3. Hiper-Leitura/1. Revisão.md",
@@ -177,12 +185,6 @@
     "Book - Ultralearning/10. Roger Craig.md",
     "Book - Ultralearning/9. Benny Lewis.md",
     "Book - Ultralearning/8. Ultralearning helps you develop leverage that you can use elsewhere..md",
-    "Book - Ultralearning/7. Learning something valuable and doing it fast doesn't have to be confined to some narrow set of geniuses..md",
-    "Book - Ultralearning/6. What steps to become a ultralearner?.md",
-    "Book - Ultralearning/5. In theory, there is no difference between theory and practice. But in practice, there is..md",
-    "Book - Ultralearning/4. Scott like to take risks..md",
-    "Book - Ultralearning/3. Learning can be very useful but....md",
-    "Book - Ultralearning/2. Passive learning creates knowledge.md",
     "Book - Ultralearning",
     "Attachments/Pasted image 20231202160925.png",
     "Attachments/Pasted Image 20231130230651_067.png",
@@ -194,14 +196,12 @@
     "Hackers do Estudo/3. Hiper-Leitura",
     "Attachments/Pasted Image 20231121201048_813.png",
     "Attachments/Pasted Image 20231121194238_517.png",
-    "Attachments/Pasted Image 20231120173410_590.jpg",
     "Excalidraw",
     "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem",
     "Pessoal/Untitled",
     "Pessoal",
     "Hackers do Estudo/1. Economia da Atenção e Excesso de Informações",
     "Hackers do Estudo",
-    "Solutions Architect/Zettelkasten/Amazon Comprehend",
-    "Solutions Architect/Zettelkasten/Amazon Polly"
+    "Solutions Architect/Zettelkasten/Amazon Comprehend"
   ]
 }

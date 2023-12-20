@@ -324,8 +324,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "text",
-			"version": 140,
-			"versionNonce": 1885624164,
+			"version": 141,
+			"versionNonce": 494082669,
 			"isDeleted": false,
 			"id": "LxwkPL48",
 			"fillStyle": "hachure",
@@ -335,7 +335,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"opacity": 100,
 			"angle": 0,
 			"x": 356.3161531686783,
-			"y": -473.14180755615234,
+			"y": -474.0367624619428,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 318.19964599609375,
@@ -350,7 +350,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					"type": "arrow"
 				}
 			],
-			"updated": 1701908611998,
+			"updated": 1702468387803,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -366,8 +366,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 198,
-			"versionNonce": 594822566,
+			"version": 202,
+			"versionNonce": 1226253101,
 			"isDeleted": false,
 			"id": "7N_M3B78IwZSKnHrRsS9P",
 			"fillStyle": "hachure",
@@ -376,12 +376,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -47.60087281071725,
-			"y": 10.741720290278607,
+			"x": -47.60087388522271,
+			"y": 10.741720107599889,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 540.9613276866573,
-			"height": 448.60476502904817,
+			"width": 541.0125349015352,
+			"height": 449.4997197521599,
 			"seed": 1447499224,
 			"groupIds": [],
 			"frameId": null,
@@ -389,7 +389,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689742,
+			"updated": 1702468387804,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -411,8 +411,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					540.9613276866573,
-					-448.60476502904817
+					541.0125349015352,
+					-449.4997197521599
 				]
 			]
 		},
@@ -472,8 +472,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1991218214,
+			"version": 157,
+			"versionNonce": 312024461,
 			"isDeleted": false,
 			"id": "9cfRHEZYqKX8KhAP0OjMJ",
 			"fillStyle": "hachure",
@@ -482,11 +482,11 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 9.83566103145398,
-			"y": 26.273585193385813,
+			"x": 9.835661031453952,
+			"y": 26.2735851933858,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 294.54136662740103,
+			"width": 294.5413666274011,
 			"height": 208.31503744900834,
 			"seed": 350697640,
 			"groupIds": [],
@@ -495,7 +495,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689742,
+			"updated": 1702468128960,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -517,7 +517,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					294.54136662740103,
+					294.5413666274011,
 					-208.31503744900834
 				]
 			]
@@ -937,8 +937,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 163,
-			"versionNonce": 1059672358,
+			"version": 165,
+			"versionNonce": 324759309,
 			"isDeleted": false,
 			"id": "gXyEIY7CiU-hgVHSoB7a7",
 			"fillStyle": "hachure",
@@ -947,12 +947,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 31.2274900347485,
-			"y": 55.07991894969747,
+			"x": 31.227490034648625,
+			"y": 55.07991894504931,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 247.23164516805184,
-			"height": 47.039354960627435,
+			"width": 247.23164516815172,
+			"height": 47.039354957092606,
 			"seed": 1369437912,
 			"groupIds": [],
 			"frameId": null,
@@ -960,7 +960,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689743,
+			"updated": 1702468128962,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -982,8 +982,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					247.23164516805184,
-					-47.039354960627435
+					247.23164516815172,
+					-47.039354957092606
 				]
 			]
 		},
@@ -1367,8 +1367,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 258,
-			"versionNonce": 1766408870,
+			"version": 260,
+			"versionNonce": 1722736205,
 			"isDeleted": false,
 			"id": "A_04-Z8gHTH4vqF8sg1r2",
 			"fillStyle": "hachure",
@@ -1390,7 +1390,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689742,
+			"updated": 1702468128961,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1465,8 +1465,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 79,
-			"versionNonce": 1647820710,
+			"version": 81,
+			"versionNonce": 1563086797,
 			"isDeleted": false,
 			"id": "IB68YSnmqsBZOTjWn5ocK",
 			"fillStyle": "hachure",
@@ -1488,7 +1488,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689743,
+			"updated": 1702468128962,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1657,8 +1657,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 393,
-			"versionNonce": 1650232870,
+			"version": 395,
+			"versionNonce": 1437139085,
 			"isDeleted": false,
 			"id": "z4x4Fr8ESHphxu405xYYv",
 			"fillStyle": "hachure",
@@ -1680,7 +1680,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689744,
+			"updated": 1702468128962,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1857,8 +1857,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 370,
-			"versionNonce": 1971305638,
+			"version": 372,
+			"versionNonce": 459407693,
 			"isDeleted": false,
 			"id": "bsVFkmCj50Kf8aXf6xe_i",
 			"fillStyle": "hachure",
@@ -1867,11 +1867,11 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -149.12177756785655,
+			"x": -149.1217775678566,
 			"y": 9.491232748247455,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 688.8594196163681,
+			"width": 688.859419616368,
 			"height": 426.5831562313049,
 			"seed": 693182120,
 			"groupIds": [],
@@ -1880,7 +1880,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689752,
+			"updated": 1702468128963,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1902,7 +1902,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-688.8594196163681,
+					-688.859419616368,
 					-426.5831562313049
 				]
 			]
@@ -2583,8 +2583,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 508,
-			"versionNonce": 2005486374,
+			"version": 510,
+			"versionNonce": 434229773,
 			"isDeleted": false,
 			"id": "4_HHxPRjNk60KUaYaH-4a",
 			"fillStyle": "hachure",
@@ -2606,7 +2606,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689752,
+			"updated": 1702468128963,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3062,8 +3062,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 661,
-			"versionNonce": 2093448230,
+			"version": 665,
+			"versionNonce": 954640781,
 			"isDeleted": false,
 			"id": "XXQ95xQMXRc__ZRgP4G7k",
 			"fillStyle": "hachure",
@@ -3072,12 +3072,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -202.4763809758183,
-			"y": 71.74955761286606,
+			"x": -202.47638097582058,
+			"y": 71.74955761286239,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1573.8648228770517,
-			"height": 227.94003964939554,
+			"width": 1573.864822877049,
+			"height": 227.94003964939898,
 			"seed": 1130580440,
 			"groupIds": [],
 			"frameId": null,
@@ -3085,7 +3085,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689759,
+			"updated": 1702468128969,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3107,8 +3107,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-1573.8648228770517,
-					227.94003964939554
+					-1573.864822877049,
+					227.94003964939898
 				]
 			]
 		},
@@ -3334,8 +3334,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 954,
-			"versionNonce": 1753688742,
+			"version": 956,
+			"versionNonce": 671705677,
 			"isDeleted": false,
 			"id": "MsL485e6uSL1LVEHbfJpr",
 			"fillStyle": "hachure",
@@ -3357,7 +3357,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689759,
+			"updated": 1702468128969,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3386,8 +3386,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1048,
-			"versionNonce": 638400806,
+			"version": 1050,
+			"versionNonce": 1350761229,
 			"isDeleted": false,
 			"id": "sFFm9wCwQzOjh_PLosAk-",
 			"fillStyle": "hachure",
@@ -3409,7 +3409,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689759,
+			"updated": 1702468128971,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3438,8 +3438,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1186,
-			"versionNonce": 2135009190,
+			"version": 1188,
+			"versionNonce": 1189043149,
 			"isDeleted": false,
 			"id": "IEEfHIT6mrD97-LZQFh1U",
 			"fillStyle": "hachure",
@@ -3461,7 +3461,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689759,
+			"updated": 1702468128971,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3490,8 +3490,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1278,
-			"versionNonce": 1678538278,
+			"version": 1280,
+			"versionNonce": 1823116429,
 			"isDeleted": false,
 			"id": "R-2hXycMhfp2ZgPuK0rfp",
 			"fillStyle": "hachure",
@@ -3513,7 +3513,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689759,
+			"updated": 1702468128971,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5176,8 +5176,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 421,
-			"versionNonce": 1978632230,
+			"version": 423,
+			"versionNonce": 1885725581,
 			"isDeleted": false,
 			"id": "VOH9eOhHVTFzqsxtnqQgx",
 			"fillStyle": "hachure",
@@ -5186,12 +5186,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -143.52365132454827,
-			"y": 107.001167733167,
+			"x": -143.52365132461432,
+			"y": 107.00116773315051,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1511.947545061426,
-			"height": 1080.5069033055993,
+			"width": 1511.9475450613616,
+			"height": 1080.5069033056157,
 			"seed": 1892149976,
 			"groupIds": [],
 			"frameId": null,
@@ -5199,7 +5199,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689753,
+			"updated": 1702468128964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5221,8 +5221,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-1511.947545061426,
-					1080.5069033055993
+					-1511.9475450613616,
+					1080.5069033056157
 				]
 			]
 		},
@@ -5606,8 +5606,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 441,
-			"versionNonce": 1746679462,
+			"version": 443,
+			"versionNonce": 1619141709,
 			"isDeleted": false,
 			"id": "qEATwZLk2PFNxBYEAvZbd",
 			"fillStyle": "hachure",
@@ -5616,12 +5616,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -155.62110459525206,
-			"y": 103.98648577547499,
+			"x": -155.62110458844018,
+			"y": 103.98648577770189,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1492.8723811289285,
-			"height": 1295.5048510957208,
+			"width": 1492.8723811356358,
+			"height": 1295.504851093494,
 			"seed": 272096984,
 			"groupIds": [],
 			"frameId": null,
@@ -5629,7 +5629,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689753,
+			"updated": 1702468128964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5651,8 +5651,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-1492.8723811289285,
-					1295.5048510957208
+					-1492.8723811356358,
+					1295.504851093494
 				]
 			]
 		},
@@ -5746,8 +5746,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 343,
-			"versionNonce": 885998886,
+			"version": 345,
+			"versionNonce": 966079757,
 			"isDeleted": false,
 			"id": "gWfQ2DPVO8fXiUqTlvl-5",
 			"fillStyle": "hachure",
@@ -5756,12 +5756,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -163.19252915743573,
-			"y": 101.24385083707534,
+			"x": -163.19252915560514,
+			"y": 101.24385083778009,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1588.5621002979642,
-			"height": 1708.1498324399388,
+			"width": 1588.5621002997784,
+			"height": 1708.1498324392342,
 			"seed": 1144095912,
 			"groupIds": [],
 			"frameId": null,
@@ -5769,7 +5769,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689753,
+			"updated": 1702468128964,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5791,8 +5791,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-1588.5621002979642,
-					1708.1498324399388
+					-1588.5621002997784,
+					1708.1498324392342
 				]
 			]
 		},
@@ -5900,8 +5900,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 534,
-			"versionNonce": 1978708902,
+			"version": 536,
+			"versionNonce": 673912269,
 			"isDeleted": false,
 			"id": "7vIIhRbF9rc1Zxo0-RE6K",
 			"fillStyle": "hachure",
@@ -5910,12 +5910,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -148.28382535190826,
-			"y": 107.68981211398386,
+			"x": -148.28382535278274,
+			"y": 107.6898121137408,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1558.8383044159407,
-			"height": 2078.5471567351196,
+			"width": 1558.8383044150735,
+			"height": 2078.5471567353625,
 			"seed": 2073837224,
 			"groupIds": [],
 			"frameId": null,
@@ -5923,7 +5923,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689753,
+			"updated": 1702468128965,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5945,8 +5945,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-1558.8383044159407,
-					2078.5471567351196
+					-1558.8383044150735,
+					2078.5471567353625
 				]
 			]
 		},
@@ -6231,8 +6231,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 854,
-			"versionNonce": 1783997606,
+			"version": 858,
+			"versionNonce": 812682573,
 			"isDeleted": false,
 			"id": "sKgrJQRCjtKfZTy-kSwg5",
 			"fillStyle": "hachure",
@@ -6254,7 +6254,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689762,
+			"updated": 1702468128974,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6325,8 +6325,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1213,
-			"versionNonce": 1308963622,
+			"version": 1215,
+			"versionNonce": 1304256013,
 			"isDeleted": false,
 			"id": "RLnvZTRYIPIHAbj8Yw84O",
 			"fillStyle": "hachure",
@@ -6348,7 +6348,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689762,
+			"updated": 1702468128974,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6419,8 +6419,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1225,
-			"versionNonce": 1896030630,
+			"version": 1227,
+			"versionNonce": 220004045,
 			"isDeleted": false,
 			"id": "XxrQLBDlfRue7UMwbMN9S",
 			"fillStyle": "hachure",
@@ -6442,7 +6442,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689763,
+			"updated": 1702468128975,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6603,8 +6603,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1285,
-			"versionNonce": 1530359846,
+			"version": 1287,
+			"versionNonce": 68906893,
 			"isDeleted": false,
 			"id": "HYt23LBVSzZfzktMSUhPa",
 			"fillStyle": "hachure",
@@ -6626,7 +6626,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689763,
+			"updated": 1702468128975,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6697,8 +6697,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 1244,
-			"versionNonce": 982130342,
+			"version": 1246,
+			"versionNonce": 1430564941,
 			"isDeleted": false,
 			"id": "ikAMivY05cojtL0xyoZPp",
 			"fillStyle": "hachure",
@@ -6720,7 +6720,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689763,
+			"updated": 1702468128976,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6889,8 +6889,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 455,
-			"versionNonce": 2065608870,
+			"version": 457,
+			"versionNonce": 957302605,
 			"isDeleted": false,
 			"id": "WNwK4ODT-WhB44alQP6yx",
 			"fillStyle": "hachure",
@@ -6899,12 +6899,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -134.34880901872705,
-			"y": 105.20916138623238,
+			"x": -134.34880901483143,
+			"y": 105.20916138701818,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 260.068348493848,
-			"height": 1443.551553433546,
+			"width": 260.06834849769666,
+			"height": 1443.5515534327599,
 			"seed": 384776540,
 			"groupIds": [],
 			"frameId": null,
@@ -6912,7 +6912,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689754,
+			"updated": 1702468128965,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6934,8 +6934,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					-260.068348493848,
-					1443.551553433546
+					-260.06834849769666,
+					1443.5515534327599
 				]
 			]
 		},
@@ -6983,8 +6983,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 252,
-			"versionNonce": 821772070,
+			"version": 254,
+			"versionNonce": 896899085,
 			"isDeleted": false,
 			"id": "4wNNGU-ubWMOmRnFnygSp",
 			"fillStyle": "hachure",
@@ -6993,12 +6993,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -113.09419340763714,
-			"y": 112.1428680910044,
+			"x": -113.09419336208067,
+			"y": 112.14286809569933,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 350.2348837719861,
-			"height": 1418.4503515029028,
+			"width": 350.23488372696204,
+			"height": 1418.450351498208,
 			"seed": 1279815524,
 			"groupIds": [],
 			"frameId": null,
@@ -7006,7 +7006,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689754,
+			"updated": 1702468128966,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7028,8 +7028,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					350.2348837719861,
-					1418.4503515029028
+					350.23488372696204,
+					1418.450351498208
 				]
 			]
 		},
@@ -7175,8 +7175,8 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		},
 		{
 			"type": "arrow",
-			"version": 164,
-			"versionNonce": 1055272358,
+			"version": 166,
+			"versionNonce": 2072950989,
 			"isDeleted": false,
 			"id": "yr25ruvtb3hmHe0elXVcZ",
 			"fillStyle": "hachure",
@@ -7185,12 +7185,12 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -52.84324810613444,
-			"y": 113.319509293441,
+			"x": -52.843179933828054,
+			"y": 113.31949933257897,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 494.7724170639749,
-			"height": 1199.588584370687,
+			"width": 494.77235068720404,
+			"height": 1199.5885943315488,
 			"seed": 58208294,
 			"groupIds": [],
 			"frameId": null,
@@ -7198,7 +7198,7 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701908689755,
+			"updated": 1702468128966,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7220,33 +7220,33 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 					0
 				],
 				[
-					494.7724170639749,
-					1199.588584370687
+					494.77235068720404,
+					1199.5885943315488
 				]
 			]
 		},
 		{
-			"id": "FQ66WCQU",
 			"type": "text",
-			"x": 581.4098137789791,
-			"y": 1493.8381366740962,
-			"width": 580.6793212890625,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 78,
+			"versionNonce": 490666022,
+			"isDeleted": false,
+			"id": "FQ66WCQU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 581.4098137789791,
+			"y": 1493.8381366740962,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 580.6793212890625,
+			"height": 25,
+			"seed": 1972279398,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1972279398,
-			"version": 78,
-			"versionNonce": 490666022,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "wiMSO9xLh7JEM2U32Hw-t",
@@ -7256,56 +7256,45 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 			"updated": 1701908705390,
 			"link": null,
 			"locked": false,
-			"text": "Imaginar o que estiver lendo, sem julgamentos e reflexões.",
-			"rawText": "Imaginar o que estiver lendo, sem julgamentos e reflexões.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Imaginar o que estiver lendo, sem julgamentos e reflexões.",
+			"rawText": "Imaginar o que estiver lendo, sem julgamentos e reflexões.",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "Imaginar o que estiver lendo, sem julgamentos e reflexões.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
-			"id": "wiMSO9xLh7JEM2U32Hw-t",
 			"type": "arrow",
-			"x": 539.9757422983816,
-			"y": 1349.5171805306302,
-			"width": 338.4972083058515,
-			"height": 138.31376509232973,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 72,
+			"versionNonce": 911189670,
+			"isDeleted": false,
+			"id": "wiMSO9xLh7JEM2U32Hw-t",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 539.9757422983816,
+			"y": 1349.5171805306302,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 338.4972083058515,
+			"height": 138.31376509232973,
+			"seed": 1410479802,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1410479802,
-			"version": 72,
-			"versionNonce": 911189670,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1701908705390,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					338.4972083058515,
-					138.31376509232973
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "E9Px5Z23",
 				"focus": 0.06390096998698158,
@@ -7316,8 +7305,19 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 				"focus": 0.16207960407837746,
 				"gap": 6.00719105113626
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					338.4972083058515,
+					138.31376509232973
+				]
+			]
 		}
 	],
 	"appState": {
@@ -7335,10 +7335,10 @@ Imaginar o que estiver lendo, sem julgamentos e reflexões. ^FQ66WCQU
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 189.6500894525551,
-		"scrollY": -763.9798353379811,
+		"scrollX": 249.41524244273748,
+		"scrollY": 865.3012243595201,
 		"zoom": {
-			"value": 0.5499999999999999
+			"value": 0.8500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
