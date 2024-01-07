@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8162b159b0ae54",
+        "id": "45d6ba482b183060",
         "type": "tabs",
         "children": [
           {
-            "id": "f7be250ee6e4e8b5",
+            "id": "2edd1ee6d920fbdf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/mapas-mentais.excalidraw.md"
+                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md"
               }
             }
           }
@@ -31,7 +31,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "461a9108e351ff50",
+            "id": "d6c439f14c37a64d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Contexto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5086555480957
+    "width": 200
   },
   "right": {
     "id": "cef80369c84e8099",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/mapas-mentais.excalidraw.md",
+                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/mapas-mentais.excalidraw.md",
+                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/mapas-mentais.excalidraw.md"
+                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md"
               }
             }
           },
@@ -133,7 +133,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -155,53 +157,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7be250ee6e4e8b5",
+  "active": "2edd1ee6d920fbdf",
   "lastOpenFiles": [
-    "Hackers do Estudo/4. Mapas Mentais/4. Exercicio.md",
+    "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
+    "Hackers do Estudo/Untitled 1.md",
+    "Hackers do Estudo/5. Hiper-Foco",
+    "SOA-C02/1. EC2 for SysOps.excalidraw.md",
+    "DEA-C01/1. Data Engineer Fundamentals.excalidraw.md",
+    "SOA-C02",
+    "Untitled.canvas",
+    "DEA-C01/Untitled Diagram.svg",
+    "DEA-C01/Untitled.md",
+    "DEA-C01",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/16. Bloqueio de Aprendizagem.md",
     "Excalidraw/mapas-mentais.excalidraw.md",
-    "Hackers do Estudo/4. Mapas Mentais/1. Introdução.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/17. Os 04 itens para o sucesso.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/15. As Vantagens de Revisar X As Desvantagens de não Revisar.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/25. Auto-Podcast.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/21. Exemplo de Mnemônica Corpo Humano.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/20. Visão geral do funcionamento da incorporação.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/19. Incorporação.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/18. Buscar Informações.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/14. Passo a Passo para Revisão.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/13. Revisão de 30 dias.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/12. 2º Passo da Revisão - Revisão Material.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/11. 1º Passo da Revisão - Recapitulação Mental.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/10. Preparação para a técnica.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/9. Além das Revisões de Ebbinghaus.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/8. 04 Etapas do estudo para Hiper-memória e Hiper-aprendizagem.md",
+    "Excalidraw/memoria-de-curto-prazo-e-memoria-de-longo-prazo.excalidraw.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/7. Exercício.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/5. Passo a Passo de como anotar Ágil e eficientemente.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/4. Anotações Irradiantes - Palavras chave e gatilhos.md",
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/3. Como fazer suas anotações nas Aulas e Vídeo-Aulas.md",
+    "Attachments/Pasted image 20231220220148.png",
+    "mindmap-curso-mapas-mentais.canvas",
+    "Attachments/Pasted Image 20231220205401_016.png",
+    "Attachments/Pasted Image 20231220205330_012.png",
+    "Attachments/Pasted Image 20231220203733_930.png",
     "Attachments/Pasted Image 20231218200217_280.png",
-    "Untitled 3.md",
-    "Untitled 2.md",
     "Hackers do Estudo/4. Mapas Mentais",
-    "Excalidraw/mindmap-hiper-leitura.excalidraw.md",
-    "Hackers do Estudo/3. Hiper-Leitura/6. RSVP e o Gargalo de Memória Operacional.md",
-    "Hackers do Estudo/3. Hiper-Leitura/5. Movimento Ocular e Leitura Dinâmica.md",
-    "Hackers do Estudo/3. Hiper-Leitura/22. Terceiro Olho.md",
-    "Hackers do Estudo/3. Hiper-Leitura/19. PQRST.md",
-    "Hackers do Estudo/3. Hiper-Leitura/11. PQLP.md",
-    "Hackers do Estudo/3. Hiper-Leitura/20. Skimming.md",
-    "Hackers do Estudo/3. Hiper-Leitura/14. Anotações.md",
-    "Hackers do Estudo/3. Hiper-Leitura/1. Revisão.md",
-    "Hackers do Estudo/3. Hiper-Leitura/17. UIS.md",
-    "Hackers do Estudo/3. Hiper-Leitura/12. Como aplicar o PME na leitura?.md",
-    "Hackers do Estudo/3. Hiper-Leitura/10. 03 ingredientes para o conhecimento.md",
-    "Hackers do Estudo/3. Hiper-Leitura/9. Divisão subconsciente de palavras.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Book - Ultralearning/13. The project \"The Year Without English\" was simple.md",
-    "Book - Ultralearning/12. Scott had questions like \"How much better could i be, if as in my MIT challenge,.md",
-    "Book - Ultralearning/11. Eric Barone.md",
-    "Book - Ultralearning/10. Roger Craig.md",
-    "Book - Ultralearning/9. Benny Lewis.md",
-    "Book - Ultralearning/8. Ultralearning helps you develop leverage that you can use elsewhere..md",
     "Book - Ultralearning",
     "Attachments/Pasted image 20231202160925.png",
     "Attachments/Pasted Image 20231130230651_067.png",
     "Attachments/Pasted Image 20231130230620_054.png",
     "Attachments/Pasted Image 20231130230117_042.png",
-    "Attachments/Pasted Image 20231130225859_028.png",
-    "Attachments/Pasted Image 20231130225545_998.jpg",
-    "Attachments/Pasted image 20231130224349.jpg",
     "Hackers do Estudo/3. Hiper-Leitura",
-    "Attachments/Pasted Image 20231121201048_813.png",
-    "Attachments/Pasted Image 20231121194238_517.png",
     "Excalidraw",
     "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem",
     "Pessoal/Untitled",
-    "Pessoal",
-    "Hackers do Estudo/1. Economia da Atenção e Excesso de Informações",
-    "Hackers do Estudo",
-    "Solutions Architect/Zettelkasten/Amazon Comprehend"
+    "Pessoal"
   ]
 }
