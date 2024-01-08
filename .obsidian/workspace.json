@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2edd1ee6d920fbdf",
+            "id": "79a2d25277d7940f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md"
+                "file": "SOA-C02/mindmap-hiper-foco-e-hiper-produtividade.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
+                "file": "SOA-C02/mindmap-hiper-foco-e-hiper-produtividade.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
+                "file": "SOA-C02/mindmap-hiper-foco-e-hiper-produtividade.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md"
+                "file": "SOA-C02/mindmap-hiper-foco-e-hiper-produtividade.excalidraw.md"
               }
             }
           },
@@ -157,11 +157,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2edd1ee6d920fbdf",
+  "floating": {
+    "id": "94f7aedfea644e90",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ace092954f3f952c",
+        "type": "window",
+        "children": [
+          {
+            "id": "3a839732bb6d1e79",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2edd1ee6d920fbdf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Hackers do Estudo/5. Hiper-Foco e Hiper-Produtividade/hiper-foco e hiper-produtividade.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1913,
+        "y": 48,
+        "width": 647,
+        "height": 600,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "79a2d25277d7940f",
   "lastOpenFiles": [
-    "SOA-C02/hiper-foco e hiper-produtividade.excalidraw.md",
+    "Hackers do Estudo/5. Hiper-Foco e Hiper-Produtividade/hiper-foco e hiper-produtividade.excalidraw.md",
+    "SOA-C02/mindmap-hiper-foco-e-hiper-produtividade.excalidraw.md",
+    "Attachments/Pasted Image 20240107225426_311.png",
+    "Attachments/Pasted Image 20240107225226_304.png",
+    "Attachments/Pasted Image 20240107224104_136.png",
+    "Attachments/Pasted Image 20240107223544_107.png",
+    "Attachments/Pasted Image 20240107222532_047.png",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.svg",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Hackers do Estudo/5. Hiper-Foco e Hiper-Produtividade/Untitled.md",
     "Hackers do Estudo/Untitled 1.md",
-    "Hackers do Estudo/5. Hiper-Foco",
+    "Hackers do Estudo/5. Hiper-Foco e Hiper-Produtividade",
     "SOA-C02/1. EC2 for SysOps.excalidraw.md",
     "DEA-C01/1. Data Engineer Fundamentals.excalidraw.md",
     "SOA-C02",
@@ -185,27 +233,13 @@
     "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/10. Preparação para a técnica.md",
     "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/9. Além das Revisões de Ebbinghaus.md",
     "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/8. 04 Etapas do estudo para Hiper-memória e Hiper-aprendizagem.md",
-    "Excalidraw/memoria-de-curto-prazo-e-memoria-de-longo-prazo.excalidraw.md",
-    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/7. Exercício.md",
-    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/5. Passo a Passo de como anotar Ágil e eficientemente.md",
-    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/4. Anotações Irradiantes - Palavras chave e gatilhos.md",
-    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem/3. Como fazer suas anotações nas Aulas e Vídeo-Aulas.md",
     "Attachments/Pasted image 20231220220148.png",
     "mindmap-curso-mapas-mentais.canvas",
     "Attachments/Pasted Image 20231220205401_016.png",
-    "Attachments/Pasted Image 20231220205330_012.png",
-    "Attachments/Pasted Image 20231220203733_930.png",
-    "Attachments/Pasted Image 20231218200217_280.png",
     "Hackers do Estudo/4. Mapas Mentais",
     "Book - Ultralearning",
-    "Attachments/Pasted image 20231202160925.png",
-    "Attachments/Pasted Image 20231130230651_067.png",
-    "Attachments/Pasted Image 20231130230620_054.png",
-    "Attachments/Pasted Image 20231130230117_042.png",
     "Hackers do Estudo/3. Hiper-Leitura",
     "Excalidraw",
-    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem",
-    "Pessoal/Untitled",
-    "Pessoal"
+    "Hackers do Estudo/2. Hiper-memória e Hiper-Aprendizagem"
   ]
 }
